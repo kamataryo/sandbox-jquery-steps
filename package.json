@@ -9,7 +9,7 @@
     "build": "mkdir -p docs && cp ./node_modules/jquery/dist/jquery.min.js ./docs && cp ./node_modules/jquery-steps/build/jquery.steps.min.js ./docs && cp ./node_modules/jquery-steps/demo/css/jquery.steps.css ./docs"
   },
   "dependencies": {
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "jquery-steps": "^1.1.0"
   },
   "devDependencies": {}
